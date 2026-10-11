@@ -28,8 +28,9 @@ B-besvarelsane ved UiO har nesten alltid solid handverk. Dei stoppar på B av é
 - [ ] I domsanalyse forklarar eg kva Høgsterett gjorde, med mange avsnittstilvisingar
 - [ ] Eg seier sjeldan om slutningane til retten *held*
 
-**Mest kryss i type 1–3?** → Del III og Del VIII.
+**Mest kryss i type 1–3?** → Del III og Del IX.
 **Mest kryss i type 4?** → Del VI.2.
+**Skal du skrive ei teorioppgåve?** → Del VII.
 
 ---
 
@@ -132,7 +133,7 @@ Rettleiingane seier også:
 
 **Grep:**
 1. **Bruk anførslane som minimumsliste.** Kvar anførsel skal få eit svar.
-2. **Lag eit spørsmålskart** (Del VIII) før du skriv.
+2. **Lag eit spørsmålskart** (Del IX) før du skriv.
 3. **Har du ikkje tid, nemn spørsmålet.** I ei A-besvarelse står det at kandidaten såg eit spørsmål, men ikkje rakk å utdjupe det. Det telte likevel.
 
 ## B-felle 3: Den manglande avgjerda
@@ -263,7 +264,79 @@ Rettleiinga seier at **berre innhaldet** har betydning, ikkje om du meistrar not
 
 ---
 
-# DEL VII: FRASER SOM GIR A VED UiO
+# DEL VII: MALEN FOR TEORIOPPGÅVE
+
+> **Grunnlag:** Oslo-materialet har éi redegjeringsoppgåve: del III i JUS2211 (V24), *"Skriv et notat der du redegjør for dette"*, med to A-svar og sensorrettleiing. Den andre "teorioppgåva" i materialet (JUS1211) er ein domsanalyse, og den er dekt i VI.2.
+> Malen under byggjer difor på del III og dei generelle krava i Oslo-rettleiingane. Han er kontrollert mot det sensorrettleiingar ved andre fakultet seier om reine teorioppgåver.
+
+## VII.1 Kva Oslo-sensor ser etter i ei redegjering
+
+- **Del III fungerte i praksis som eit kontrollspørsmål.** Det viktigaste var om kandidaten:
+  - forstod oppgåva
+  - fann fram til **dei riktige føresegnene**
+  - brukte dei på ein **metodisk forsvarleg** måte
+- **Rettspraksis:** Sensor venta ikkje at kandidatane kjende den omfattande rettspraksisen på feltet.
+- **Notatforma tel ikkje.** Berre innhaldet.
+- **Vekting:** Del III skilde lite mellom kandidatane og blei difor vekta mindre enn del II. Bruk ikkje meir tid enn oppgåva gir.
+- **Same overordna krav som elles:** heilskapsinntrykket, dei viktigaste spørsmåla og ei metodisk adekvat handsaming.
+
+## VII.2 To typar teorioppgåver – to malar
+
+**Redegjering i notatform** (Oslo-varianten: regelverket brukt på eit konkret spørsmål):
+```
+1 SPØRSMÅLET OG SVARET ØVST
+  · Kva du er beden om å avklare + kort konklusjon
+2 RETTSGRUNNLAGET
+  · Kva regelsett gjeld (direktiv, lov), og kvifor det gjeld i norsk rett
+3 SYSTEMATIKKEN – éin person eller situasjon om gongen
+  · Kven er omfatta? → vilkåra éin etter éin → rettsverknaden
+  · Bruk opplysningane i oppgåva (relasjonar, statsborgarskap, tidspunkt)
+4 KONKLUSJON – kva gjeld, og på kva vilkår
+```
+
+**Klassisk teorioppgåve** ("Redegjør for …", "Gjør rede for …"):
+```
+1 INNLEIING: kva oppgåva ber om · definisjon · formål · avgrensing · plan
+2 KJERNEN, éin del om gongen: ordlyd → HR / EU-domstolen → KVIFOR (omsyn) → DØME
+3 NOKO MEIR ENN LOVTEKSTEN: samanheng med andre reglar · teoretisk usemje
+4 AVSLUTNING: samanlikning – ikkje gjentaking
+```
+
+## VII.3 Seks grep frå B til A i ei redegjering
+
+**1. Finn dei riktige føresegnene først.**
+Del III blei vurdert på om du fann dei riktige føresegnene. Ei redegjering bygd på feil regelsett er ein grunnfeil (sjå B-felle 1).
+
+**2. Følg systematikken i regelverket, steg for steg.**
+Same krav som i praktikum: personkrins → vilkår → rettsverknad, i den rekkjefølgja regelverket sjølv brukar.
+
+**3. Bruk faktum i oppgåva.**
+A-en som skreiv best på del III, vurderte forsørgingskravet ut frå tidspunktet for søknaden. Det var eit konkret grep knytt til faktum, ikkje ei generell utgreiing.
+
+**4. Kjernen må vere med, og få plassen.**
+Sensorrettleiingar ved andre fakultet seier to ting:
+- Utan kjernebestemmingane er A–C *utelukka*.
+- Dei beste brukar plassen på kjernen, medan dei svakare *fyller opp* med generelle tema.
+
+**5. Gi meir enn ei omskriving av lova.**
+Forklar kvifor regelen er slik (omsyn), gi eigne døme, og vis samanhengen med andre reglar. Ei rettleiing seier: jo fleire gode døme, desto betre uttelling.
+
+**6. Bruk tida etter vektinga.**
+Ein kort del III heldt ikkje A-ane nede når del I og II var sterke. Ein svak hovuddel kan likevel ikkje reddast av ein god kontrolldel.
+
+## VII.4 Sjekkliste for teoridelen
+
+```
+□ Har eg funne dei riktige føresegnene?
+□ Har eg gått gjennom vilkåra i systematisk rekkjefølgje?
+□ Har eg brukt opplysningane i oppgåva?
+□ Står svaret tydeleg – helst både øvst og nedst?
+□ Har eg forklart kvifor regelen er slik, med eit døme?
+```
+
+---
+
+# DEL VIII: FRASER SOM GIR A VED UiO
 
 **Problemstilling og delkonklusjon som speglar kvarandre** (gjekk igjen i fleire besvarelsar)
 ```
@@ -304,7 +377,7 @@ Rettleiinga seier at **berre innhaldet** har betydning, ikkje om du meistrar not
 
 ---
 
-# DEL VIII: EKSAMENSDAGEN
+# DEL IX: EKSAMENSDAGEN
 
 ## Før du skriv (10–15 minutt)
 
@@ -339,7 +412,7 @@ Rettleiinga seier at **berre innhaldet** har betydning, ikkje om du meistrar not
 
 ---
 
-# DEL IX: SJØLVTEST – B ELLER A?
+# DEL X: SJØLVTEST – B ELLER A?
 
 ```
 SENSORSKJEMAET (UiO)
