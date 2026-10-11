@@ -5,7 +5,7 @@
 >
 > **Nytt i v2:** To nye lover (*dekning* og *riktig regel*), som var dei største skilja i det nye datasettet. Eigne delar for teori, domsanalyse og essay. Eit nytt sensorskjema bygd på faktiske kommentarar. Fleire påstandar frå v1 som ikkje heldt, er retta (sjå sist i dokumentet).
 >
-> **Nytt i v3:** Fulle malar for teorioppgåve (Del X) og domsanalyse (Del XI). Domsanalysemalen byggjer på 9 nye domsanalysar frå UiN (5 A, 3 B, 1 C), to av dei med tilbakemelding frå sensor.
+> **Nytt i v3:** Fulle malar for teorioppgåve (Del X) og domsanalyse (Del XI). Del XI har òg analyseverktøya: kva *analyser*, *gjer greie for*, *forklar*, *samanlikn*, *vurder*, *drøft* og *kva betydning dommen har* krev, og omgrepa frå juridisk metode, rettsgrunnlag og rettspraksis du analyserer med. Byggjer på 9 nye domsanalysar frå UiN (5 A, 3 B, 1 C), to av dei med tilbakemelding frå sensor.
 >
 > *Døma under er illustrasjonar bygde på mønster frå besvarelsane. Sjekk alltid referansar mot Lovdata før du brukar dei sjølv.*
 
@@ -542,7 +542,7 @@ Kort fortalt: svar på kvart instruksjonsord, vel kjernen sjølv, og gi kvar del
 
 ## VIII.3 Domsanalyse ("Analyser dommen …")
 
-Full mal, bygd på 9 domsanalysar frå UiN: **sjå Del XI.**
+Full mal med analyseverktøy (instruksjonsorda og omgrepa du analyserer med), bygd på 9 domsanalysar frå UiN: **sjå Del XI.**
 Kort fortalt: referat gir B eller lågare. A vurderer kvar rettskjelde, samanliknar fleirtal og mindretal og formulerer prejudikatet.
 
 ## VIII.4 Essay på engelsk (Comparative Law)
@@ -703,11 +703,16 @@ Teller teorien 1/3, skal han ha om lag 1/3 av tida. Ein teoridel på ei halv sid
 
 ---
 
-# DEL XI: MALEN FOR DOMSANALYSE
+# DEL XI: MALEN FOR DOMSANALYSE OG ANALYSEVERKTØY
 
 > **Grunnlag:** 9 domsanalysar frå UiN (juridisk metode JUS1001 2020–2022, JUS1005 2025 og Rettsstaten JUS2010 2025): 5 A, 3 B og 1 C.
 > - **Tre matcha par** (same dom, ulik karakter): Segway-dommen HR-2016-2228-A (A/B), asyldommen HR-2020-2408-A (to A og éin B) og Holship HR-2016-2554-P (A/B).
-> - **To har tilbakemelding frå sensor:** ein A med 38 kommentarar, og ein B med skriftleg begrunning.
+> - **To har tilbakemelding frå sensor:** ein A med 38 kommentarar, og ein B med skriftleg begrunning per delspørsmål.
+>
+> Delen har tre lag:
+> 1. **Instruksjonsorda** (XI.2–XI.3): kva *analyser*, *gjer greie for*, *forklar*, *samanlikn*, *vurder*, *drøft* og *kva betydning dommen har* krev.
+> 2. **Analyseavsnittet** (XI.4): byggjeklossen som alle orda brukar.
+> 3. **Verktøykassa** (XI.5): omgrepa frå juridisk metode, rettsgrunnlag og rettspraksis som du analyserer *med*.
 
 ## XI.1 Tre typar domsanalyseoppgåver ved UiN
 
@@ -715,130 +720,322 @@ Teller teorien 1/3, skal han ha om lag 1/3 av tida. Ein teoridel på ei halv sid
 |---|---|---|
 | **Open** | *"Analyser dommen HR-2016-2554-P."* | Du vel strukturen sjølv. A: analyse → vurdering → rekkjevidd. |
 | **Rettskjeldebruk** | *"Analyser Høyesteretts rettskildebruk i HR-2016-2228-A."* | Gå gjennom rettskjeldene éi og éi. |
-| **Delspørsmål med vekting** | 1) faktum og problemstilling, 2) korleis fleirtalet kom fram til resultatet (3/5 av karakteren), 3) kvifor mindretalet kom til eit anna resultat, 4) tolkingsresultatet (2/15 kvar) | Følg nummereringa, merk svara ("(oppgave 2)"), og bruk tida etter vektinga. |
+| **Delspørsmål med vekting** | 1) *"Gjør kort rede for faktum og hovedproblemstillingen"*, 2) *"Forklar hvordan Høyesteretts flertall … kom frem til konklusjonen"* (3/5 av karakteren), 3) *"Hva gjorde at mindretallet kom frem til en annen konklusjon"*, 4) *"Gjør rede for hvilket tolkningsresultat"* (2/15 kvar) | Kvart delspørsmål har sitt eige instruksjonsord. Følg nummereringa, merk svara ("(oppgave 2)"), og bruk tida etter vektinga. |
 
-**Tilleggsspørsmål** ("Hvordan løser Høyesterett at både EU/EØS-regler og EMK-regler kommer til anvendelse?", "Er du enig med Bekkedal …?") skal få eit eige og tydeleg svar, med *di* meining og grunngiving. Sensor sakna her refleksjonane til studenten om metoden til Høgsterett. Ei generell setning var ikkje nok.
+Mange oppgåver har i tillegg eit **tilleggsspørsmål** som krev standpunkt, til dømes *"Er du enig med Bekkedal …?"* eller *"Hvordan løser Høyesterett at både EU/EØS-regler og EMK-regler kommer til anvendelse?"*. Det skal få eit eige svar med *di* meining (sjå *Vurder* under).
 
-## XI.2 Det store skiljet: referat eller analyse
+## XI.2 Instruksjonsorda på éi side
 
-Same funn i alle tre para:
-- **Holship (A/B):** B-en gjengav dommen svært presist. A-en hadde ei eiga *vurdering* under kvart tema og ein eigen del om rekkjevidd.
-- **Segway (A/B):** A-en hadde eit eige kapittel, *"Vurdering av Høyesteretts rettskildebruk"*. Der kritiserte kandidaten at skiljet mellom vtrl. §§ 2 og 22 var *noko svakt grunngitt*. B-en avslutta med ei oppsummering.
-- **Asyldommen (A/A/B):** Sensor kalla B-en sin analyse av fleirtalet *"en mønsterbesvarelse"*. Likevel blei det B:
-  - i mindretalsdelen sakna sensor samanlikning med fleirtalet og *eiga vurdering*
-  - kandidaten burde *løfta blikket* og sagt noko om presedensverknaden
+Orda bestemmer *kva slags tekst* du skal skrive. Dei byggjer på kvarandre, frå å gjengi til å ta standpunkt:
 
-Sensorkommentarane på A-en frå 2022 seier det same frå andre sida:
-- Enkelte stader var analysen *eit reint samandrag* av argumentasjonen til førstvoterande. Det ville ha heva analysen om studenten i større grad hadde teke stilling til den juridiske metoden til Høgsterett.
-- Om generelle avsnitt om rettskjeldelære: *"For at det skal være en domsanalyse, må studenten forklare hvordan disse generelle reglene kommer frem i dommen."*
+| Ord | Kva teksten skal gjere | Kjerneformel | Typisk B-feil |
+|---|---|---|---|
+| **Gjer (kort) greie for** | Leggje fram fakta og rettsspørsmål presist og fullstendig | kva → kvar i dommen → kvifor det er viktig | For kort: tek med faktum, men gløymer rettsspørsmål og resultat |
+| **Forklar** | Vise *korleis* og *kvifor* noko skjedde | steg for steg: kjelde → slutning → vekt | Gjengir kva HR sa, ikkje korleis HR kom dit |
+| **Analyser** | Ta dommen frå kvarandre og vise korleis delane heng saman | analyseavsnittet (XI.4), del for del | Referat i rekkjefølgja til dommen |
+| **Samanlikn** | Vise likskapar og skilnader *og kva dei kjem av* | samde → usamde → kvifor → konsekvens | To parallelle referat utan kopling |
+| **Vurder / Er du einig?** | Ta standpunkt til om noko er godt grunngitt | påstand → grunngiving → motargument → standpunkt | Generell setning utan eiga meining |
+| **Drøft** | Vege argument for og mot til ein konklusjon | spørsmål → for → mot → vekting → konklusjon | Berre éi side, eller ingen konklusjon |
+| **Kva betydning har / vil dommen få?** | Seie kva dommen er prejudikat for, og kor tungt han veg | regelen → styrkjer/svekkjer → framtidige saker | "Dommen vil få stor betydning" utan grunngiving |
 
-> **Regelen:** Kvar gong du skriv kva Høgsterett gjorde, skal neste setning seie *kvifor*, *kor mykje det veg* eller *om det held*.
+## XI.3 Kvart instruksjonsord i detalj
 
-## XI.3 Malen
+### "Gjer (kort) greie for" – faktum, problemstilling og tolkingsresultat
+
+**Kva sensor venta:** B-en på asyldommen fekk denne tilbakemeldinga på *"Gjør kort rede for faktum og hovedproblemstillingen"*:
+- kort gjengiving av faktum
+- *svært kort om rettsspørsmål og resultat*
+- *lite om dommen i seg selv*
+
+→ "Kort" betyr *konsentrert*, ikkje *ufullstendig*.
+
+**Mal for faktum og problemstilling:**
+```
+1 Faktum i 2–4 setningar – berre det som trengst for å forstå rettsspørsmålet
+2 Rettsspørsmålet: kva ord eller vilkår blir tolka?
+   "Den rettslige problemstillingen var hvorvidt «hjemland» må forstås som …"
+3 Det primære rettsgrunnlaget – og kva slags regel det er
+   "Det primære rettsgrunnlaget var utlendingsloven § 28 første ledd bokstav a.
+    Bestemmelsen er en kvalifikasjonsregel …"
+4 Resultatet
+5 Dommen sjølv: samansetning (avdeling/plenum), einstemmig eller dissens (tal), rettsområde
+```
+
+**Mal for tolkingsresultatet** (*"Gjør rede for hvilket tolkningsresultat …"*):
+```
+1 Definer resultatet (presiserande, innskrenkande, utvidande, analogisk eller antitetisk)
+2 Vis KVAR i dommen det skjer – med avsnitt
+   (A: avsnitt 47–62 presiserer «hjemland», avsnitt 63–69 innskrenkar i misbrukstilfelle)
+3 Vis KVIFOR – kva kjelde som gav utslaget (t.d. formålet med konvensjonen)
+4 Løft blikket: kva betyr resultatet for seinare saker?
+```
+Det siste punktet er det sensor sakna hos B-en: *"Kunne kanskje løftet blikket noe mer og sagt noe om dommens presedensvirkninger?"*
+
+### "Forklar" – korleis Høgsterett kom fram til resultatet
+
+**Kva sensor venta:** Dette delspørsmålet talde 3/5 av karakteren. Om B-en sitt svar her skreiv sensor: *"Meget grundig og godt om flertallets rettskildebruk … Dette ligner en mønsterbesvarelse."* Svaret gjorde tre ting:
+- delte opp etter dei **delspørsmåla Høgsterett løyste**
+- forklarte **relevans, slutning og vekt** for kvar kjelde under kvart delspørsmål
+- brukte omgrepa presist (generell og spesiell relevans, sjølvstendig og usjølvstendig relevans, harmonisering ≠ vekting)
+
+**To disposisjonar som begge gav toppvurdering:**
+```
+Variant 1 – per rettskjelde (A-ane)
+  Lovtekst → forarbeid → rettspraksis → folkerett / teori → reelle omsyn
+  → til slutt: tolking i vid forstand (korleis slutningane blei samla)
+
+Variant 2 – per delspørsmål HR løyste (B-en sensor kalla "mønsterbesvarelse")
+  Spørsmål 1: «Vil statsborgerskapet under enhver omstendighet være avgjørende …?»
+     → lovtekst · forarbeid · folkerett (relevans, slutning, vekt)
+  Spørsmål 2: «Er det adgang til å tolke «hjemland» innskrenkende i misbrukstilfeller?»
+     → rettspraksis · reelle omsyn
+  Spørsmål 3: «Hvilken betydning får konvensjonens formål?»
+  Spørsmål 4: «Kan vedtaket anses ugyldig på grunn av uriktig lovtolkning?»
+```
+Variant 2 passar godt når dommen løyser fleire spørsmål etter kvarandre. Då ser sensor at du har forstått *strukturen* i dommen.
+
+**"Forklar korleis HR løyser …"** (tilleggsspørsmål): Sensor meinte at eit generelt svar ("Høyesterett foretar en balansering") var *litt vel generelt*. Forklar *mekanismen*: kva vurderer HR først, kva test brukar HR, og kva blir avgjerande? (Sjå XI.7 for eit døme.)
+
+### "Analyser" – ta dommen frå kvarandre
+
+**Kva sensor venta:**
+- *"Det finnes mange forskjellige måter å gjøre en domsanalyse på"* – forklar metoden du vel, og kvifor. Det *hever besvarelsen*.
+- Enkelte stader var A-en *eit reint samandrag*. Det hadde heva analysen å ta meir stilling til den juridiske metoden til Høgsterett.
+
+**Slik tolka A-en på Holship ei open analyseoppgåve:**
+> *"Oppgaven tolkes dithen at det skal gjøres en analysering av Holship-dommen med hovedfokus på dommens problematiserte spørsmål i tillegg til Høyesteretts rettskildebruk. Deretter vil Høyesterett sin argumentasjon bli vurdert, før det til slutt vil nevnes noe om dommens prejudikatsvirkning og dens rekkevidde."*
+
+Analyser = **forklar + vurder + betydning**, bygd av analyseavsnitt (XI.4). Under kvart tema hadde A-en ein fast todeling: *x.1 Analyse* og *x.2 Vurdering*.
+
+### "Samanlikn" – fleirtal og mindretal (eller to dommar)
+
+**Kva sensor venta:** Om B-en sitt svar på *"Hva gjorde at mindretallet kom frem til en annen konklusjon"* skreiv sensor: *"Savner mer sammenligning med hensyn til flertallets vurderinger, samt kandidatens egen vurdering."* B-en lista to punkt om kva mindretalet meinte, men kopla dei ikkje til fleirtalet.
+
+**Mal:**
+```
+1 KVAR ER DEI SAMDE?        "Mindretallet er enig i at … (avsnitt 79)"
+2 KVAR SKIL DEI LAG?        Rettsanvendinga (kva regelen er)?
+                            Eller subsumsjonen og bevisvurderinga (korleis faktum passar)?
+3 KVIFOR?                   Kva kjelde, omsyn eller vekting gjer skilnaden?
+4 EIGA VURDERING            Kven har det sterkaste argumentet, og kvifor?
+5 KONSEKVENS                Kva betyr dissensen for kor tungt dommen veg?
+```
+
+**Det skarpaste grepet i A-ane:** *finn det eksakte punktet dei er usamde om*. Begge A-ane på asyldommen fann ut at *"Dissensen knyttet seg altså ikke til rettsanvendelsen"*: mindretalet var samd i misbruksreservasjonen, men meinte at UNE aldri hadde gjort ei misbruksvurdering. A-en på Holship gjorde det same: *"selv ved en sterk dissens er det ikke alle punkter det er uenighet om."*
+
+**Samanlikning med andre dommar** gjer du på same måte: likskap i faktum → skilnad → er skilnaden rettsleg relevant? I Holship mista Sola havn-dommen vekt fordi EØS-retten ikkje var vurdert der.
+
+### "Vurder" og "Er du einig?" – ta standpunkt
+
+**Kva sensor venta:** Om tilleggsspørsmålet om metoden til Høgsterett: *"Jeg skulle likt å lese studentens refleksjoner rundt Høyesteretts metode her."* Ei vurdering krev *di* meining, grunngitt med metodeomgrep.
+
+**Mal:**
+```
+1 PÅSTAND        "Etter mitt syn er …" / "Jeg er enig med … i at …"
+2 GRUNNGIVING    med verktøy frå XI.5: vekt, ratio/obiter, overføringsverdi, legitimitet
+3 MOTARGUMENT    "På den annen side kan det hevdes at …"
+4 STANDPUNKT     "Samlet fremstår … som godt / svakt begrunnet, fordi …"
+```
+
+**Kva A-ane vurderte** (døme på eigne observasjonar):
+- *Svak grunngiving:* Valet om å skilje vtrl. §§ 2 og 22 frå kvarandre er *noko svakt grunngitt*, fordi § 2 er ein legaldefinisjon som gjeld for § 22.
+- *Manglande grunngiving:* *"Det vises ikke til hvorfor disse avgjørelsene ikke isolert sett kunne tale for innskrenkning."*
+- *Tvilsam vekt:* Høgsterett byggjer på ei obiter-fråsegn frå ein tidlegare dom. Det gir grunn til å vere varsam med vekta.
+- *Balansering av prinsipp:* homogenitet mot suverenitet, når HR nesten behandlar ei rådgivande fråsegn frå EFTA-domstolen som bindande.
+- *Positiv vurdering med grunngiving:* Det kan vere problematisk å tolke eit straffebod på tvers av ordlyden. Men her var spørsmålet om tiltalte skulle *frifinnast* trass i ordlyden, og då *"fremstår [det] som ganske uproblematisk"*.
+
+### "Drøft" – for og mot til ein konklusjon
+
+*Drøft* står ikkje som eige instruksjonsord i dei ni oppgåvene, men drøfting går igjen inne i vurderingane til A-ane. I ein domsanalyse drøftar du eit **metodespørsmål om dommen**. Du løyser ikkje saka på nytt.
+
+**Mal:**
+```
+1 SPØRSMÅLET     "Spørsmålet er om Høyesterett her tolker presiserende eller kontekstuelt."
+2 FOR            "Det taler for … at …"
+3 MOT            "Det kan imidlertid også invendes at …"
+4 VEKTING        "Det avgjørende er …, fordi …"
+5 KONKLUSJON     "Jeg synes derfor det er mest naturlig å …"
+```
+Døme frå ein A: Kandidaten drøfta om førstvoterande tolka presiserande eller kontekstuelt, viste til begge moglegheitene og konkluderte med grunngiving. Det er drøfting i miniformat, og det viser metodeforståing.
+
+### "Kva betydning har / vil dommen få?" – prejudikat og rekkjevidd
+
+**Kva sensor venta:** Sensor sakna at B-en *løfta blikket* til presedensverknadene. C-en skreiv at dommen vil få stor vekt i framtida, utan å grunngi kvifor.
+
+**Mal:**
+```
+1 KVA ER DOMMEN PREJUDIKAT FOR?   Formuler regelen i éi setning.
+2 KVA STYRKJER?                   einstemmig · plenum/storkammer · prinsipielt spørsmål ·
+                                  klart og generelt formulert · følgd opp seinare
+3 KVA SVEKKJER?                   dissens · avdeling med 5 · konkret og faktumnær ·
+                                  uklar grunngiving · gammal
+4 KVA GJELD DISSENSEN?            Gjeld han berre subsumsjonen, har regelen full vekt.
+5 FRAMTIDIGE SAKER                "Fremtidige tvister der … vil Høyesterett kunne begrunne …"
+6 MINDRETALET                     Kan ein sterk dissens få ein viss rettskjeldeverdi?
+```
+Sjå XI.7 for eit døme på B- og A-nivå.
+
+## XI.4 Analyseavsnittet – byggjeklossen i alle orda
+
+Kvart analyseavsnitt har fem ledd. Det er dette som skil analyse frå referat:
+
+```
+1 OBSERVASJON   Kva Høgsterett gjorde – med avsnittsnummer
+2 OMGREP        Namngi kva som skjer, med verktøy frå XI.5
+                (usjølvstendig relevans, presiserande tolking, obiter …)
+3 GRUNNGIVING   Kvifor kjelda er relevant, og kvifor slutninga blir slik
+4 VEKT/RETNING  Kor tungt kjelda veg, og kva veg ho trekkjer
+5 VURDERING     Held det? Kva er sterkt, og kva er svakt?
+```
+
+> **Regelen:** Kvar gong du skriv kva Høgsterett gjorde (ledd 1), skal minst eitt av ledd 2–5 kome rett etter.
+
+Sensor sa det same om generelle avsnitt: *"For at det skal være en domsanalyse, må studenten forklare hvordan disse generelle reglene kommer frem i dommen."* Ledd 2 og 3 skal alltid knytast til *denne* dommen.
+
+## XI.5 Verktøykassa: omgrepa du analyserer med
+
+A-ane (og B-en sensor kalla "mønsterbesvarelse" i oppgåve 2) brukar desse omgrepa om konkrete stader i dommen, ikkje som eigne teorikapittel. Sensor rosa at rettsbrukingsprosessen blei forklart *kort*, og etterlyste forklaring når omgrep blei brukte utan.
+
+### Juridisk metode
+
+| Omgrep | Kort forklart | Slik blei det brukt i besvarelsane |
+|---|---|---|
+| **Rettsbrukingsprosessen** | relevans → slutning → vekt/harmonisering | 2–4 setningar i innleiinga, med lærebok. Deretter blir det brukt, ikkje forklart på nytt. |
+| **Tolking i snever og vid forstand** | kvar kjelde for seg (snever), så alle samla (vid) | Snever per kjelde først, vid til slutt – *"bidrar til en mindre refererende gjennomgang"* |
+| **Sjølvstendig og usjølvstendig relevans** | Kjelda er eit eige argument, eller lyser opp ei anna kjelde | *"Forarbeidene opererer her med uselvstendig relevans, da de setter lys på lovforståelsen"* – sensor ville at omgrepet blei forklart |
+| **Generell og spesiell vekt** | Vekt for slike kjelder generelt, og vekt for akkurat denne kjelda (alder, klarleik, nærleik til lovvedtaket) | *"En Ot.prp. har større vekt enn en NOU fordi den er nærmere lovvedtaket"* |
+| **Harmonisering og vekting** | Slutningar som peikar same veg blir samordna. Slutningar som spriker, blir vegne. | Skiljet blei forklart eksplisitt i svaret sensor kalla "mønsterbesvarelse" |
+| **Tolkingsresultat** | presiserande · innskrenkande · utvidande · analogisk · antitetisk | Ofte to steg i same dom: først presisering, så innskrenking |
+
+### Rettsgrunnlaget
+
+| Omgrep | Kort forklart | Slik blei det brukt i besvarelsane |
+|---|---|---|
+| **Primært rettsgrunnlag** | Føresegna saka blir løyst etter, og ordet som blir tolka | Namngitt i innleiinga: lov, ledd, bokstav og ordet |
+| **Legaldefinisjon** | Lova definerer sjølv omgrepet | Vtrl. § 2 definerer "motorvogn" for § 22 – Høgsterett brukte definisjonen i staden for ordlydstolking |
+| **Type regel** | kvalifikasjonsregel, straffebod, kompetanseregel | *"Bestemmelsen er en kvalifikasjonsregel"* |
+| **Trinnhøgd og forrang** | Grunnlova > lov > forskrift. Inkorporert konvensjon med forrang. | Mrl. § 3 og Grl. § 92 i Holship. Sensor: forklar prinsippet (*lex superior*) når du brukar det. |
+| **Presumsjonsprinsippet og dualisme** | Norsk rett blir tolka i samsvar med folkeretten. Folkeretten må inkorporerast for å gjelde direkte. | Brukt for å forklare kvifor flyktningkonvensjonen var avgjerande |
+| **EØS-konform tolking og homogenitet** | Norsk rett skal tolkast i samsvar med EØS. EØS-retten skal tolkast likt i heile EØS. | Brukt for å forklare kvifor HR la så stor vekt på EFTA-domstolen |
+| **Legalitetsprinsippet** | Straff og inngrep krev klar heimel | Grl. § 96 og EMK art. 7 i Segway-dommen |
+
+### Rettspraksis
+
+| Omgrep | Kort forklart | Slik blei det brukt i besvarelsane |
+|---|---|---|
+| **Kvifor rettspraksis er relevant** | Grl. § 88, likebehandling, føreseielegheit | Éi setning, så rett til bruken i dommen |
+| **Ratio og obiter** | Det som bar resultatet, og fråsegner som ikkje gjorde det | Brukt *kritisk*: HR bygde på ei obiter-fråsegn → *"grunn til å vise forsiktighet"*. Sensor ville vite kva som veg mest, og kvifor. |
+| **Overføringsverdi** | Kor godt ein eldre dom passar | Alder, eldre lov og ulikt faktum svekkjer (Segway-dommane frå 1954/55; Sola havn utan EØS-vurdering) |
+| **Prejudikatsverknad og vekt** | Om dommen bind seinare saker, og kor tungt han veg | Samansetning, dissens og kva dissensen gjeld |
+| **Internasjonal praksis** | EMD for EMK, EU- og EFTA-domstolen for EØS | *"gode og tungtveiende grunner"* for å fråvike EFTA-domstolen |
+| **Andre kjelder** | forskrift · forvaltningspraksis · juridisk teori · reelle omsyn | Teori: vekta avheng av kvalitet og forfattar. Reelle omsyn: forklar kvifor du meiner HR brukar dei (sensor). |
+
+## XI.6 Malen – heile domsanalysen
 
 ```
 1 INNLEIING – kort (sensor rosa at det ikkje blei brukt for mykje tid her)
-  1.1 Kva oppgåva ber om, og korleis du tolkar ho
+  1.1 Kva oppgåva ber om – instruksjonsorda – og korleis du tolkar ho
       "Oppgaven tolkes dithen at … Deretter … før det til slutt …"
-  1.2 Dommen: domstol, samansetning (avdeling, storkammer eller plenum), dato,
-      einstemmig eller dissens (med tal), rettsområde
-  1.3 Faktum (2–4 setningar) og partane
-  1.4 Hovudproblemstillinga + det primære rettsgrunnlaget (lova og ordet som blir tolka)
+  1.2 Dommen: domstol, samansetning, dato, einstemmig eller dissens (tal), rettsområde
+  1.3 Faktum (2–4 setningar) og partane                        ← GJER GREIE FOR
+  1.4 Rettsspørsmålet + primært rettsgrunnlag + type regel     ← GJER GREIE FOR
   1.5 Resultatet
-  1.6 Metoden du vel for analysen, og kvifor + vegkart
-      "… tolkning i snever forstand for hver rettskildefaktor, deretter tolkning
-       i vid forstand. Dette bidrar til en mindre refererende gjennomgang."
-  1.7 Rettsbrukingsprosessen i 2–4 setningar: relevans → slutning → vekt (+ lærebok)
+  1.6 Metoden for analysen + vegkart                            ← "hever besvarelsen"
+  1.7 Rettsbrukingsprosessen i 2–4 setningar (+ lærebok)
 
-2 ANALYSE – éi rettskjelde (eller eitt delspørsmål) om gongen,
-  i den rekkjefølgja Høgsterett brukar dei
-  For kvar kjelde:
-   a) KVA:       kva Høgsterett gjorde (avsnittsnummer)
-   b) RELEVANS:  kvifor kjelda er relevant (demokrati, Grl. § 88,
-                 presumsjonsprinsippet …) – kort
-   c) SLUTNING:  kva Høgsterett slutta, og om kjelda har sjølvstendig
-                 eller usjølvstendig relevans
-   d) VEKT:      generell og spesiell vekt (alder, klarleik, nærleik til
-                 lovvedtaket, ratio eller obiter, likskap i faktum) – og retninga
-   e) VURDERING: held slutninga? Kva er sterkt, og kva er svakt?
-  Typisk rekkjefølgje: lovtekst → forarbeid → rettspraksis → forskrift /
-  internasjonal rett / juridisk teori → reelle omsyn
+2 ANALYSE – per rettskjelde ELLER per delspørsmål HR løyste     ← FORKLAR / ANALYSER
+  Kvart avsnitt: observasjon → omgrep → grunngiving → vekt/retning → vurdering
 
-3 TOLKING I VID FORSTAND – korleis slutningane blei samla
-  · Trekte dei same veg (harmonisering) eller ulike veg (vekting)?
-  · Kva fekk utslaget, og kvifor?
+3 TOLKING I VID FORSTAND – korleis slutningane blei samla        ← FORKLAR
+  · Harmonisering eller vekting? Kva fekk utslaget, og kvifor?
 
-4 MINDRETALET (ved dissens)
-  · Kvar er dei usamde: i rettsanvendinga, eller i subsumsjonen og bevisvurderinga?
-  · Kvar er dei samde?
-  · Samanlikn med fleirtalet – og gi di eiga vurdering
+4 MINDRETALET (ved dissens)                                      ← SAMANLIKN
+  · samde → usamde (regel eller subsumsjon?) → kvifor → eiga vurdering
 
-5 TOLKINGSRESULTATET
-  · presiserande, innskrenkande, utvidande, analogisk eller antitetisk – grunngitt
-  · ofte to steg: først blir ordet presisert, så blir regelen innskrenka
-    for ei særskild gruppe (slik i asyldommen)
+5 TOLKINGSRESULTATET                                             ← GJER GREIE FOR
+  · definisjon → kvar i dommen (avsnitt) → kvifor → løft blikket
 
-6 REKKJEVIDD OG PREJUDIKAT
-  · Kva er dommen prejudikat FOR? Formuler det.
-  · Samansetning: avdeling (5 dommarar), storkammer (11) eller plenum (alle)
-  · Einstemmig eller dissens (tal) – punkt utan dissens har full vekt
-  · Alder, og om dommen er følgd opp seinare
+6 VURDERING AV HR SIN ARGUMENTASJON                              ← VURDER / DRØFT
+  · sterke og svake slutningar, med grunngiving og motargument
+  · tilleggsspørsmål med standpunkt ("Er du enig …?")
 
-7 AVSLUTNING – kort, og kan sløyfast i tidsnaud
+7 BETYDNING OG REKKJEVIDD                                        ← BETYDNING
+  · prejudikat FOR … · styrkjer/svekkjer · kva dissensen gjeld · framtidige saker
+
+8 AVSLUTNING – kort, og kan sløyfast i tidsnaud
 ```
 
-## XI.4 Fem grep som løftar domsanalysen frå B til A
+Har oppgåva **nummererte delspørsmål**, følgjer du nummereringa i staden. Bruk den delen av malen som høyrer til instruksjonsordet i kvart delspørsmål.
 
-**1. Forklar korleis du analyserer, og kvifor.**
-Sensor rosa at studenten forklarte metoden for analysen i innleiinga. Då viser du kva metode du meiner passar best for akkurat denne dommen, og det *hevar besvarelsen*. Fleire A-ar valde å tolke kvar kjelde i snever forstand først og samle i vid forstand etterpå, nettopp for å unngå referat.
+## XI.7 Før og etter: tre instruksjonsord
 
-**2. Kople kvar generell regel til dommen.**
-Skriv ikkje eit avsnitt om kvifor forarbeid er relevante utan å vise kvar og korleis dei blir brukte i *denne* dommen.
+*Illustrasjonar bygde på dommane i grunnlaget.*
 
-**3. Sei retninga og vekta for kvar kjelde.**
-Sensor spurde rett ut *"i hvilken retning trekker dommen?"*, og rosa at vekta blei kommentert. A-ane brukar omgrepa om konkrete kjelder i dommen:
-- *sjølvstendig og usjølvstendig relevans*
-- *generell og spesiell vekt*
-- *ratio og obiter*
+**Analyser (éi rettskjelde, Segway-dommen)**
 
-**4. Ha ein eigen vurderingsdel.**
-Kritiske observasjonar frå A-ane:
-- *"Det vises ikke til hvorfor disse avgjørelsene ikke isolert sett kunne tale for innskrenkning."*
-- *"Her virker Høyesteretts rettskildebruk noe uklar."*
-- Høgsterett bygde på ei obiter-fråsegn frå ein tidlegare dom. Det gir grunn til å vere varsam med vekta.
-- Ei formulering frå førstvoterande *"kan ansees spenstig"* og *"tvetydig"*.
-
-**5. Ta mindretalet og prejudikatet på alvor.**
-Sensor trekte B-en for at mindretalsdelen mangla samanlikning og eiga vurdering, og for at kandidaten ikkje sa noko om presedensverknaden. A-en i Holship viste at punkt utan dissens framleis har full vekt.
-
-## XI.5 Før og etter: éi rettskjelde
-
-*Illustrasjon bygd på Segway-dommen (rettspraksis):*
-
-**Referat (B-nivå):**
+B-nivå:
 > "Førstvoterende viser videre til Rt. 1954 s. 904 og Rt. 1955 s. 1243. I den første ble en elektrisk varesykkel ansett som motorvogn, i den andre ble en defekt moped ikke det. Førstvoterende uttaler i avsnitt 21 at dommene ikke kan tas til inntekt for en vidtrekkende innskrenkende tolkning."
 
-**Analyse (A-nivå):**
+A-nivå:
 > "Høyesterett viser til Rt. 1954 s. 904 og Rt. 1955 s. 1243 (avsnitt 21). Dommene er relevante fordi begge gjaldt kjøretøy i grenseland for 'motorvogn'. Høyesterett slutter at de ikke kan begrunne innskrenkning, men sier ikke hvorfor. Vekten er uansett begrenset: dommene er nesten 60 år gamle, avsagt under en eldre lov, og faktum ligger langt fra en Segway. Det er derfor metodisk forsvarlig at førstvoterende ikke drøfter dem nærmere."
 
-Legg merke til kva A-en gjer: **kva** HR gjorde (med avsnitt) → **relevans** → **slutning** → **vekt** (alder, eldre lov, faktum) → **vurdering** (forsvarleg).
+**Samanlikn (mindretalet, asyldommen)**
 
-## XI.6 Fraser frå A-domsanalysane
+B-nivå:
+> "Mindretallet mente at vedtaket var ugyldig fordi UNE ikke hadde foretatt en misbruksvurdering (avsnitt 80). Mindretallet mente også at misbruksreservasjonen må gjelde generelt."
+
+A-nivå:
+> "Mindretallet er enig med flertallet i at utlendingsloven § 28 første ledd bokstav a må forstås med en misbruksreservasjon (avsnitt 79). Uenigheten gjelder derfor ikke rettsanvendelsen, men forståelsen av UNEs vedtak: Flertallet leser vedtaket slik at UNE har foretatt en misbruksvurdering, mens mindretallet mener UNE bare har vurdert hjemlandet helhetlig, med statsborgerskapet som ett moment (avsnitt 80–82). Etter mitt syn står mindretallet sterkt: Når vedtaket ikke drøfter motivet for å skaffe statsborgerskapet, er det betenkelig å legge til grunn at en misbruksvurdering likevel er gjort. Siden dissensen gjelder subsumsjonen og ikke regelen, svekker den i liten grad prejudikatsverdien av misbruksreservasjonen."
+
+**Kva betydning dommen har (Segway-dommen)**
+
+B-nivå:
+> "Dommen er enstemmig, noe som styrker prejudikatsverdien. Den vil derfor få stor betydning i fremtiden."
+
+A-nivå:
+> "Dommen er enstemmig og avsagt i avdeling med fem dommere. Den er et prejudikat for at en Segway er 'motorvogn' etter vegtrafikkloven § 22 første ledd, og for at bestemmelsen bare unntaksvis kan tolkes innskrenkende. Prejudikatsverdien styrkes av at dommen er enstemmig og tar stilling til et prinsipielt spørsmål. Den begrenses av at Høyesterett ikke forklarer forholdet mellom §§ 2 og 22 særlig klart. I fremtidige saker om nye, små kjøretøy vil dommen være utgangspunktet, men forholdet mellom legaldefinisjonen og § 22 kan fortsatt bli omstridt."
+
+Legg merke til kva A-nivået gjer kvar gong:
+- **Analyser:** kva HR gjorde (med avsnitt) → relevans → slutning → vekt → vurdering
+- **Samanlikn:** samde → det eksakte punktet dei er usamde om → eiga vurdering → konsekvens
+- **Betydning:** regelen formulert → kva som styrkjer og svekkjer → framtidige saker
+
+## XI.8 Fraser – henta frå og tilpassa etter A-domsanalysane, sorterte etter instruksjonsord
 
 ```
-"Oppgaven tolkes dithen at det skal gjøres en analyse av … Deretter vil … bli vurdert, før …"
+GJER GREIE FOR
+"Den rettslige problemstillingen var hvorvidt … må forstås som …"
+"Det primære rettsgrunnlaget for å løse tvisten var …"
+"Bestemmelsen er en kvalifikasjonsregel, som …"
+
+FORKLAR / ANALYSER
+"Oppgaven tolkes dithen at …"
 "For strukturens skyld tas det utgangspunkt i hvilke slutninger Høyesterett trekker
  fra de enkelte rettskildefaktorene."
-"Forarbeidene trekkes her inn med uselvstendig relevans, for å belyse …"
+"Førstvoterende tar utgangspunkt i lovteksten i avsnitt …"
+"Forarbeidene opererer her med uselvstendig relevans, da de …"
 "Uttalelsen var et obiter dictum, noe som gir grunn til forsiktighet med vekten."
+
+SAMANLIKN
+"Annenvoterende er samstemt med førstvoterende på spørsmålet om …"
+"Dissensen knyttet seg altså ikke til rettsanvendelsen, men til …"
+"Selv ved en sterk dissens er det ikke alle punkter det er uenighet om."
+
+VURDER / DRØFT
+"Etter mitt syn …"
 "Det vises ikke til hvorfor …"
 "Her virker Høyesteretts rettskildebruk noe uklar."
-"Selv ved en sterk dissens er det ikke alle punkter det er uenighet om."
-"Dissensen knyttet seg ikke til rettsanvendelsen, men til …"
+"Dette fremstår derfor som ganske uproblematisk."
+"Det kan imidlertid også invendes at … Jeg synes likevel det er mer naturlig å …"
+
+BETYDNING
 "Når det gjelder rekkevidde, er dette en enstemmig dom …"
+"Dissensen gjelder bare …, og konklusjonen på de øvrige punktene får derfor ikke svekket prejudikatsverdi."
+"Mindretallets votum vil også ha betydning ettersom …"
+"Fremtidige tvister der … vil Høyesterett kunne begrunne …"
 ```
 
-## XI.7 Dette held deg nede
+## XI.9 Dette held deg nede
 
 | Felle | Kvar det kom frå |
 |---|---|
@@ -846,26 +1043,34 @@ Legg merke til kva A-en gjer: **kva** HR gjorde (med avsnitt) → **relevans** �
 | Rettskjeldene ramsa opp utan slutning og vekt | C-en |
 | Sjølvmotseiing om kva som veg mest | C-en: lovteksten var "mest vektlagt" i éin del, rettspraksis "størst vektlagt" i avslutninga |
 | Påstandar om framtidig vekt utan grunngiving | C-en |
+| "Gjer kort greie for" tolka som "skriv nesten ingenting" | Sensorbegrunninga på B-en |
+| Mindretalet referert, ikkje samanlikna | Sensorbegrunninga på B-en |
+| Tilleggsspørsmålet svart generelt | Sensor sakna eigne refleksjonar |
+| Omgrep brukt utan forklaring (*lex superior*, usjølvstendig relevans, vid/snever forstand) | Sensorkommentarar på ein A |
 | Ein partspåstand skrive som om retten slo han fast | Sensor: bruk "hevder", ikkje "fastslår", om anførslar |
 | Ei kjelde i teksten som ikkje står i litteraturlista | Sensor: *"hvor kommer Boe 2010 fra?"* |
-| Delspørsmål 1, 3 og 4 for korte | Sensorbegrunninga på B-en |
-| Tilleggsspørsmålet svart generelt | Sensor sakna eigne refleksjonar |
 
-## XI.8 Det A-ane tolte
+## XI.10 Det A-ane tolte
 
 - To A-ar på same eksamen kalla tolkingsresultatet ulike ting (presiserande mot innskrenkande). Det var grunngivinga som talde.
 - Ein A tok ikkje med mindretalet. Sensor meinte det var forsvarleg, gitt kor kompleks dommen var og kor lite tid kandidaten hadde.
 - Ingen oppsummering til slutt. Det er forsvarleg på eksamen, ifølgje sensor.
 
-## XI.9 Sjekkliste for domsanalysen
+## XI.11 Sjekkliste – per instruksjonsord
 
 ```
-□ Har eg svart på kvart delspørsmål og tilleggsspørsmål – med eiga meining der det blir spurt om?
-□ Har eg forklart metoden for analysen min?
-□ Har kvar rettskjelde avsnitt, relevans, slutning, vekt og retning?
-□ Har eg ein eigen vurderingsdel – ikkje berre gjengiving?
-□ Har eg samanlikna fleirtal og mindretal, og sagt kvar dei er samde?
-□ Har eg formulert kva dommen er prejudikat for, og kor tungt han veg?
+GJER GREIE FOR   □ Faktum, rettsspørsmål, rettsgrunnlag, resultat og dommen sjølv – alt med?
+                 □ Tolkingsresultat: definert, plassert i dommen, grunngitt og løfta blikket?
+FORKLAR          □ Har kvar kjelde (eller kvart delspørsmål) relevans, slutning og vekt?
+                 □ Har eg vist korleis slutningane blei samla (vid forstand)?
+ANALYSER         □ Har eg forklart metoden for analysen min?
+                 □ Følgjer kvar observasjon av eit omgrep, ei grunngiving eller ei vurdering?
+SAMANLIKN        □ Har eg sagt kvar dei er samde – og funne det eksakte punktet dei er usamde om?
+                 □ Har eg gitt ei eiga vurdering og sagt kva dissensen betyr?
+VURDER / DRØFT   □ Har eg teke standpunkt, med grunngiving og motargument?
+BETYDNING        □ Har eg formulert kva dommen er prejudikat for, og kor tungt han veg?
+ALLE             □ Er omgrepa forklarte der eg brukar dei – og knytte til denne dommen?
+                 □ Står alle kjeldene i teksten også i litteraturlista?
 ```
 
 ---
