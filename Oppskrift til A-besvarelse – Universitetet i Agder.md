@@ -21,6 +21,7 @@ B-ane ved UiA har riktig struktur og riktige hovudsvar. Dei er berre tynne. Krys
 - [ ] Når noko manglar i faktum, hoppar eg over det
 
 **3+ kryss?** → Du er truleg ein "riktig, men tynn" B. Les Del III og Del IV.
+**Skal du skrive ei teorioppgåve?** → Del VI.
 
 ---
 
@@ -230,23 +231,85 @@ Ei sensorrettleiing frå eit anna fakultet støttar dette: eit godt *referat* av
 
 ---
 
-# DEL VI: TEORI VED UiA
+# DEL VI: MALEN FOR TEORIOPPGÅVE
 
-**A-mal (frå ei A-besvarelse om condictio indebiti):**
+> **Grunnlag:** teoridelane i fire besvarelser frå UiA:
+> - to A: obligasjonsrett (*"Grei ut om condictio indebiti"*) og forvaltningsrett
+> - to B frå same eksamen i familie- og arverett (*"Grei ut om ekteskapsloven § 31"*)
+>
+> Det finst ingen sensorrettleiingar frå UiA. Mønstra er kontrollerte mot rettleiingar ved andre fakultet.
+
+## VI.1 "Grei ut om …": kva det krev
+
+"Grei ut om" er det vanlege teoriformatet ved UiA. Det testar om du kan forklare ein regel eller ei lære *som heilskap*:
+- kva regelen går ut på
+- kvifor han finst
+- korleis han blir vurdert
+- kva han fører til
+
+## VI.2 B-paret: same oppgåve, to B-ar
+
+Begge B-ane svarte på *"Grei ut om ekteskapsloven § 31"* (sjå tabellen i Del II):
+- **Den svakaste B-en** gjekk gjennom §§ 31, 32, 33 … etter tur. Besvarelsen hadde eitt domsnamn, skreiv "forarbeidene legger til grunn" utan kjelde, og nesten ingen omsyn.
+- **Den sterkaste B-en** kopla § 31 til dekningslova, tvangsfullføringslova og reglane om skeivdeling. Det er systemsamanheng, og det løfta besvarelsen. Men djupna i rettspraksis og omsyn mangla også her.
+
+→ Ingen av dei bygde teksten rundt **vurderingstemaet og omsyna**. Det er det A-en gjer.
+
+## VI.3 Malen (frå A-en om condictio indebiti)
+
 ```
-1. Innleiing: definisjon · rettsutvikling (kva er forlate, kva gjeld no) · plan
-2. Omsyn: dei motstridande omsyna (korreksjon mot ro i oppgjeret, lojalitet)
-3. Moment, KVART knytt til
-   – ein dom
-   – omsynet det styrkjer
-4. Rettsverknad (t.d. kva som held seg utanfor)
-5. Avgrensing mot nærliggjande figurar
-6. Avsluttande merknader
+1 INNLEIING
+  · Definisjon i éi setning ("en ulovfestet lære om oppgjørskorreksjon …")
+  · Rettsutviklinga: kva gjaldt før, kva gjeld no (villfaringskravet er forlate)
+  · Kvar spørsmålet oppstår i praksis (t.d. feilutbetalt lønn)
+  · Vurderingstemaet i éi setning (korreksjonsomsynet mot oppgjersomsynet)
+  · Plan
+
+2 OMSYNA – dei som står mot kvarandre, forklart kvar for seg
+
+3 MOMENTA – eitt om gongen
+  · momentet → dommen det kjem frå → kva omsyn det styrkjer, og når
+
+4 RETTSVERKNADEN – kva skjer når regelen slår inn (t.d. at forbruk blir halde utanfor)
+
+5 AVGRENSING mot nærliggjande figurar (t.d. regress)
+
+6 AVSLUTTANDE MERKNADER – kva regelen sikrar, og kvifor han er viktig
 ```
 
-**B-fella:** å gjengi paragrafane. Sensorrettleiingar andre stader seier at du må presentere *noko meir enn ei omskriving av ordlyden i lova*, og at dei beste brukar *eigne døme* og *systemsamanheng*.
+**Er oppgåva ein paragraf** ("Grei ut om ekteskapsloven § 31"), brukar du same mal, men startar med ordlyden og kvar paragrafen står i systemet: *kva han regulerer → kvifor (omsyn) → kva andre reglar han heng saman med → døme*.
 
-**Vekting:** Ei A-besvarelse i forvaltningsrett hadde ein generell og vag teoridel, utan kjernen. Besvarelsen fekk likevel A fordi praktikum utgjorde 2/3 av tida. **Vekta følgjer tida**, men ikkje rekn med det.
+## VI.4 Fem grep frå B til A
+
+**1. Bygg teksten rundt vurderingstemaet, ikkje rundt rekkjefølgja av paragrafar.**
+A-en organiserte alt rundt korreksjon mot oppgjer. Den svakaste B-en gjekk gjennom §§ 31, 32, 33 …
+
+**2. Knyt kvart moment til både ein dom og eit omsyn.**
+*"Tidsmomentet … jf. Birgo-dommen … trekker i retning av oppgjørshensynet"*. Det er regel, kjelde og retning i éi setning.
+
+**3. Vis systemsamanhengen.**
+Den sterkaste B-en løfta seg ved å kople § 31 til andre lover. Rettleiingar ved andre fakultet premierer det same.
+
+**4. Ingen kjeldelause påstandar.**
+"Forarbeidene legger til grunn" utan tilvising trekkjer ned. Vis til forarbeidet, eller lat vere å påstå det.
+
+**5. Avslutt med kva regelen gjer.**
+A-en avslutta med kva læra sikrar (føreseielegheit, lojalitet, likebehandling). Teksten blei ikkje berre gjenteken.
+
+## VI.5 Det A-ane tolte
+
+- **Tidsnaud i obligasjonsrett:** A-en lista fire sentrale dommar til slutt "grunnet tidsnød", utan å drøfte dei. Det blei likevel A.
+- **Svak teoridel i forvaltningsrett:** A-en hadde ein generell og vag teoridel utan kjernen, men praktikum utgjorde 2/3 av tida. **Vekta følgjer tida**, men ikkje rekn med det.
+
+## VI.6 Sjekkliste for teoridelen
+
+```
+□ Har innleiinga definisjon, utvikling og vurderingstema?
+□ Er omsyna forklarte – og brukte gjennom heile teksten?
+□ Har kvart moment ein dom og ei retning?
+□ Har eg teke med rettsverknaden og avgrensinga mot nærliggjande figurar?
+□ Seier avslutninga kva regelen sikrar?
+```
 
 ---
 
