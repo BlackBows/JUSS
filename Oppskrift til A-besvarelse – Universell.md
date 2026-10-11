@@ -50,6 +50,7 @@ I teori og domsanalyse kjem eitt tillegg: **vurder, ikkje beskriv.**
 
 **3+ kryss i C-lista?** → Lov 2, 3, 4 og 6 først.
 **Mest kryss i B-lista?** → Lov 1, 4, 5 og 7, og Del VI.
+**Skal du skrive ei teorioppgåve?** → Del IX.
 
 ---
 
@@ -414,26 +415,10 @@ Ikkje som bakgrunnsstøy. Fleire A-ar har få eller ingen forarbeid. Ein *kjelde
 ## VI.1 Praktikum ("Drøft og løys")
 Lov 1–9 og malen i Del VIII.
 
-## VI.2 Teori ("Redegjer for", "Gjer greie for")
+## VI.2 Teori ("Redegjer for", "Gjer greie for", "Grei ut om")
 
-*Stadfesta ved Innlandet, Agder og sensorrettleiingar elles.*
-
-```
-1. INNLEIING: korleis du forstår oppgåva · definisjon · avgrensing · FORMÅL · vegkart
-2. KJERNEN – vel han sjølv og bruk plassen der
-   For kvar regel/kvart vilkår:  ordlyd → dom → KVIFOR (omsyn) → SAMANHENG (andre lover) → DØME
-3. NOKO MEIR ENN LOVTEKSTEN: teoretisk usemje · samspel mellom vilkåra · rettsutvikling
-4. AVSLUTTANDE MERKNADER: oppsummering, samanlikning
-```
-
-**Tre B-feller (ved alle tre skulane):**
-1. **Paragraf for paragraf** (parafrase). Ei sensorrettleiing seier at det må presenterast *noko meir enn ei omskriving av ordlyden i lova*.
-2. **Dekkje alt like mykje** i staden for å velje kjernen. Ein kommentar på ein sterk B sa at ei tydelegare avgrensing ville vist *sjølvstende*. Ei anna rettleiing seier at evna til å *avgrense* er eit sentralt moment, og at *svakare besvarelsar fyller opp*.
-3. **For kort teoridel.** Følg tidsvektinga.
-
-**Pluss:** eigne døme ("jo fleire gode døme, desto betre", seier ei rettleiing) og systemsamanheng.
-
-**Viktig:** Kjernen *må* vere med. Ei sensorrettleiing seier at A–C er *utelukka* utan han.
+Full mal, bygd på teoridelar frå tre skular: **sjå Del IX.**
+Kort fortalt: svar på nøyaktig det oppgåva spør om, vel kjernen, og gi kvar del kjelde, omsyn og døme.
 
 ## VI.3 Teori med refleksjon ("… og reflekter over")
 - Gi refleksjonen **ein eigen seksjon** med for og mot, kritikk og alternative syn.
@@ -547,7 +532,122 @@ Forutsatt at …, tas det subsidiært stilling til …
 
 ---
 
-# DEL IX: SENSORENS SKJEMA – UNIVERSELT
+# DEL IX: MALEN FOR TEORIOPPGÅVE
+
+> **Grunnlag:** teoridelar frå tre skular:
+> - **Innlandet:** 4 A og 3 B, med eit matcha A/B-par på same oppgåve
+> - **Agder:** 2 A, og 2 B på same oppgåve
+> - **Oslo:** éi redegjering i notatform, med sensorrettleiing
+>
+> Funna er kontrollerte mot to sensorrettleiingar for reine teorioppgåver ved andre fakultet.
+
+## IX.1 Fem former – same kjerne
+
+| Form | Typisk ordlyd | Kvar i datasettet |
+|---|---|---|
+| **Redegjer** | *"Redegjør for …"*, *"Gjør rede for …"* | Innlandet |
+| **Grei ut** | *"Grei ut om …"* | Agder |
+| **Forklar + døme** | *"Forklar … Gi begrunnede eksempler på …"* | Innlandet (juridisk metode) |
+| **Redegjer i notat** | *"Skriv et notat der du redegjør for …"* | Oslo |
+| **Redegjer og reflekter** | *"… og reflekter over …"* | Innlandet |
+
+Kjernen er den same i alle fem:
+- **Forklar regelen som heilskap:** kva han går ut på, kvifor han finst, korleis han blir vurdert og kva han fører til.
+- **Svar på nøyaktig det oppgåva spør om.**
+
+## IX.2 Kva skil A frå B i teori
+
+| B gjer | A gjer i staden | Kvar det er vist |
+|---|---|---|
+| Svarar på *temaet*, ikkje på *oppgåva* | Svarar på kvart instruksjonsord og held seg innanfor kvar avgrensing | Matcha par, Innlandet |
+| Går gjennom paragrafane i rekkjefølgje (parafrase) | Byggjer teksten rundt vurderingstemaet og omsyna | B-paret, Agder |
+| Dekkjer alt like mykje | Vel kjernen sjølv og seier kvifor | Kommentar på ein B, Innlandet + sensor andre stader |
+| Definisjonar utan døme | Eigne døme, gjerne med tal, for kvar del | Innlandet |
+| Skriv "forarbeidene legger til grunn" utan kjelde | Kjelde med side eller avsnitt – eller ingen påstand | Agder |
+| Isolerte reglar | Systemsamanheng med andre reglar | Agder + sensor andre stader |
+| For kort teoridel | Tid etter vektinga | Innlandet (645 ord gav B) |
+
+## IX.3 Malen
+
+```
+1 INNLEIING (om lag 10–15 %)
+  · Kva oppgåva ber om, med instruksjonsorda – og kva ho IKKJE ber om
+  · Nøkkelomgrepet definert (med kjelde)
+  · Rettsleg plassering: lovfesta eller ulovfesta · heimel · FORMÅL · rettsutvikling
+  · Kvar spørsmålet oppstår i praksis – gjerne eit kvardagsdøme
+  · Avgrensing + vegkart med punktnummer
+
+2 HOVUDDEL – kjernen, éin del om gongen (nummerert)
+  For kvar figur, kvart vilkår eller kvart moment:
+    kva det går ut på → kjelde (ordlyd, HR med avsnitt) → KVIFOR (omsyn) → DØME
+  + Samanhengen: kva skil delane, korleis spelar dei saman,
+    og kva andre reglar heng dei saman med?
+
+3 NOKO MEIR ENN LOVTEKSTEN
+  · rettsutvikling · teoretisk usemje (begge syn kan vere forsvarlege) · systemsamanheng
+
+4 REFLEKSJON – berre når oppgåva ber om det, i ein eigen seksjon
+
+5 AVSLUTTANDE MERKNADER
+  · Samanlikning, rangering eller kva regelen sikrar – ikkje gjentaking
+```
+
+**Notatvarianten (Oslo):** svaret øvst → rettsgrunnlaget → systematikken (personkrins → vilkår → rettsverknad), med faktum frå oppgåva → konklusjon.
+
+**Er oppgåva ein enkelt paragraf** ("Grei ut om ekteskapsloven § 31"): start med ordlyden og kvar paragrafen står i systemet, og gå så vidare til kvifor (omsyn), samanheng og døme.
+
+## IX.4 Seks grep frå B til A
+
+**1. Oppgåveteksten er sjekklista.**
+I det matcha paret frå Innlandet bad oppgåva om grunngitte døme frå fvl. §§ 1 og 10. A-en gav nettopp det. B-en gav for det meste kjende dommar frå rettspraksis.
+
+**2. Kjernen må vere med, og få plassen.**
+Ei sensorrettleiing seier at A–C er *utelukka* utan kjernebestemmingane. Dei beste brukar plassen på kjernen, medan dei svakare *fyller opp* med generelle tema.
+
+**3. Gi meir enn ei omskriving av lova.**
+Forklar kvifor (omsyn) for kvar del. Ein B i Agder gjekk gjennom paragraf for paragraf. A-en bygde alt rundt omsyna som står mot kvarandre.
+
+**4. Døme, døme, døme.**
+Bruk eigne og konkrete døme, gjerne med tal. A-en i pengekravsrett laga eit taldøme for kvar heftingsform. Ei sensorrettleiing seier: jo fleire gode døme, desto betre uttelling.
+
+**5. Problematiser og vis samanheng.**
+- Kvar går grensa mot nærliggjande figurar?
+- Er omgrepet eigentleg det det ser ut som?
+- Kva andre lover heng regelen saman med?
+
+Dette er det som skil ei redegjering frå ei oppramsing.
+
+**6. Tid etter vektinga.**
+Teller teorien 1/3, skal han ha om lag 1/3 av tida. Ein teoridel på 645 ord heldt ein elles god besvarelse nede på B.
+
+## IX.5 Fraser frå A-teoridelane
+
+```
+"Oppgaven ber om en redegjørelse av … Det bes ikke om …"
+"I den videre fremstillingen vil det først … (pkt. 2), deretter … (pkt. 3), før … (pkt. 4)."
+"Oppgaven avgrenses mot …, men det påpekes kort at …"
+"Det særegne trekket ved … er at …"
+"I vurderingen står hensynet til … mot hensynet til …"
+"Et moment i vurderingen er …, jf. [dom]. Dette trekker i retning av …"
+"Et eksempel er …"
+"Det er likevel grenser for hvor langt … kan trekkes: …"
+"Avslutningsvis: … sikrer …"
+```
+
+## IX.6 Sjekkliste for teoridelen
+
+```
+□ Har eg svart på kvart instruksjonsord og halde meg innanfor avgrensingane?
+□ Er kjernen med – og har han fått mest plass?
+□ Har kvar del kjelde, omsyn og eit døme?
+□ Har eg vist samanhengen med andre reglar?
+□ Står avslutninga for noko meir enn ei gjentaking?
+□ Har teorien fått tid etter vektinga?
+```
+
+---
+
+# DEL X: SENSORENS SKJEMA – UNIVERSELT
 
 To sensorrettleiingar frå ulike skular seier rett ut kva dei måler. Dei peikar same veg:
 
@@ -586,7 +686,7 @@ To sensorrettleiingar frå ulike skular seier rett ut kva dei måler. Dei peikar
 
 ---
 
-# DEL X: FRASER SOM GIR A, OG FRASER SOM DREP KARAKTEREN
+# DEL XI: FRASER SOM GIR A, OG FRASER SOM DREP KARAKTEREN
 
 ## Fraser som gir A
 
@@ -647,7 +747,7 @@ To sensorrettleiingar frå ulike skular seier rett ut kva dei måler. Dei peikar
 
 ---
 
-# DEL XI: EKSAMENSDAGEN
+# DEL XII: EKSAMENSDAGEN
 
 ## Dei første 10–15 minutta (ikkje skriv tekst enno)
 ```
@@ -691,7 +791,7 @@ To sensorrettleiingar frå ulike skular seier rett ut kva dei måler. Dei peikar
 
 ---
 
-# DEL XII: SJØLVTEST – A, B ELLER C?
+# DEL XIII: SJØLVTEST – A, B ELLER C?
 
 Testen viser *kva type mangel* du har. Han er ikkje ein mekanisk sum. A-ane i datasettet hadde ofte eitt eller to nei.
 
@@ -722,7 +822,7 @@ A-PLUSS
 
 ---
 
-# DEL XIII: MYTER SOM DATASETTET AVLIVAR
+# DEL XIV: MYTER SOM DATASETTET AVLIVAR
 
 | Myte | Røyndomen |
 |---|---|
